@@ -353,3 +353,5 @@ MigrationBackup/
 
 local.settings.json
 .telemetry
+
+angular-app/.angular/cache
